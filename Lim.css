@@ -1,0 +1,44 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+/* contenuto con sfondo trasparente */
+.container{
+  background-color:rgba(0,0,0,.5);
+  color: #fff;
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+#testo-iniziale{
+  color: green;
+}
+#logo{
+  width: 200px;
+}
+
+/* colore sfondo nav */
+.layout-tasti{
+  background-color: green;
+  border-radius: 30px;
+}
+
+/* colore carica monopattini */
+.arancione{
+  background-color: orange;
+  width: 500px;
+  border-radius: 20px;
+}
+.verde{
+  background-color: green;
+  width: 700px;
+  border-radius: 20px;
+}
+.rosso{
+  background-color: red;
+  width: 300px;
+  border-radius: 20px;
+}
